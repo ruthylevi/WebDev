@@ -1,1 +1,1 @@
-Was given specs on codeacademy, and had to recreate that using HTML and CSS.
+Was given specs to a site on CodeAcademy. Had to recreate that visually and stylistically using HTML and CSS.
