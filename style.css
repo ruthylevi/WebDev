@@ -16,7 +16,6 @@ h2 {
     color: white;
 }
 
-
 .prices {
     font-weight: bold;
     color: blue;
@@ -26,7 +25,7 @@ p {
     font-size: 18px;
 }
 
-#Brushes {
+#Brushes { 
     background-color: springgreen;
 }
 
