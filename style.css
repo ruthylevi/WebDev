@@ -1,4 +1,4 @@
-h1, h2, h3, p {
+h1, h2, h3, span {
     font-family: Helvetica;
 }
 
@@ -21,19 +21,19 @@ h2 {
     color: blue;
 }
 
-p {
-    font-size: 18px;
+span {
+    font-size: 16px;
 }
 
 #Brushes { 
-    background-color: springgreen;
+    background-color: mediumspringgreen;
 }
 
 #Frames {
-    background-color: palevioletred;
+    background-color: lightcoral;
 }
 
 #Paint {
-    background-color: lightskyblue;
+    background-color: skyblue;
 }
 
