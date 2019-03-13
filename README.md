@@ -1,2 +1,1 @@
-# WebDev
-# WebDev
+Was given specs on codeacademy, and had to recreate that using HTML and CSS.
